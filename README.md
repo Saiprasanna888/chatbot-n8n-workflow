@@ -64,7 +64,7 @@ Check out my workflow live here(make sure you need n8n account): [View Workflow 
 
 ## **Connect / Feedback**
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muppallasaiprasanna/)  
-- GitHub: [Your GitHub Profile]((https://github.com/Saiprasanna888)  
+- GitHub: [Your GitHub Profile](https://github.com/Saiprasanna888)  
 
 ---
 

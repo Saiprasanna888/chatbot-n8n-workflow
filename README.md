@@ -3,7 +3,7 @@
 This repository contains a **learning experiment with n8n**, where I explored building an **AI-powered chat workflow**. The goal was to understand workflow automation, node interactions, and AI integration within n8n.  
 
 
-Check out my workflow live here: [View Workflow on n8n](https://saisoc.app.n8n.cloud/workflow/xRElPDP2QmrMyw7j)
+Check out my workflow live here(make sure you need n8n account): [View Workflow on n8n](https://saisoc.app.n8n.cloud/workflow/xRElPDP2QmrMyw7j)
 ---
 
 ## **Workflow Overview**
